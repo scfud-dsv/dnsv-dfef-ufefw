@@ -341,7 +341,7 @@
             }
             .copy-notification {
                 position: absolute;
-                left: 79%;
+                left: 76%;
                 margin-left: 10px;
                 top: 30.5%;
                 transform: translateY(-50%);
@@ -450,7 +450,7 @@
         <div class="link-container">
             <img src="picture/357v32.jpg" class="hand-icon-mobile" alt="img">
             <img src="picture/357v32.jpg" class="hand-icon-pc" alt="img">
-            <p class="copyable-link" onclick="copyToClipboard(this)" style="margin-left: -10px; margin-right: 10px;">https://0qcjlolov.com/register?key=4539769296</p>
+            <p class="copyable-link" onclick="copyToClipboard(this)" style="margin-left: -10px; margin-right: 10px;">https://bg5682.com/register?key=4539769296</p>
             <span class="copy-notification" id="copyNotification">复制成功</span>
         </div>
     </div>
@@ -470,7 +470,7 @@
 	
 	<!-- 横幅动态GIF图片 -->
     <div class="banner-gif" id="bannerGif">
-        <a href="https://0qcjlolov.com/register?key=4539769296"><img src="picture/0.webp.jpg" alt="img"></a>
+        <a href="https://bg5682.com/register?key=9345441065"><img src="picture/0.webp.jpg" alt="img"></a>
     </div>
     
     <script>
